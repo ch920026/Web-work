@@ -1,7 +1,7 @@
-READ ME
-=======
+https://youtu.be/74v80lL6QAo
+![image](./game.gif)
 
-1. 計分
+1. flappybird game browser version
 
 2. 柱子當障礙物，地面、天空為邊界
 
