@@ -2,7 +2,7 @@
 多人部落格
 ![image info](./demo.png)
 # How to start
-at backend/
+- at backend/
 npm start
-at frontend/
+- at frontend/
 npm start
