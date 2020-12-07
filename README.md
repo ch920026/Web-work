@@ -1,6 +1,6 @@
 # web-work
 
-## This is my webpage frontend works
+## Here are some smiple web works I've done.
 - meetup app
 https://www.youtube.com/watch?v=puUEnk9K06o
 - Lucky Wheel works
