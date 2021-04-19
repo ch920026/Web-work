@@ -1,6 +1,6 @@
 # web-work
 
-## Here are some smiple web works I've done.
+## Here are some simple web works I've done.
 - meetup app
 https://www.youtube.com/watch?v=puUEnk9K06o
 - Lucky Wheel works
